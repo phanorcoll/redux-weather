@@ -4,3 +4,17 @@ $fa-font-path: "~font-awesome/fonts";
 body {
     background: #ccc;
 }
+
+.container {
+    td,
+    th {
+        vertical-align: middle!important;
+        text-align: center!important;
+    }
+    .input-group {
+        margin: 20px 20px;
+    }
+    svg {
+        height: 150px;
+    }
+}
