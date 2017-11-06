@@ -31,8 +31,7 @@
     "react-dom": "^16.0.0",
     "react-redux": "^5.0.6",
     "redux": "^3.7.2",
-    "redux-promise": "^0.5.3",
-    "remove": "^0.1.5"
+    "redux-promise": "^0.5.3"
   },
   "devDependencies": {
     "axios": "^0.17.0",
@@ -52,7 +51,6 @@
     "image-webpack-loader": "^3.4.2",
     "lodash": "^4.17.4",
     "node-sass": "^4.5.3",
-    "react-sparkline": "^2.0.0",
     "react-sparklines": "^1.6.0",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.19.0",
